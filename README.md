@@ -3,3 +3,5 @@ an evolutionary model of a chemotaxer trained to manage multiple resources in a 
 
 includes code for a continuous time recurrent neural network, an evolutionary algorithm, network 
 neuroscientific analyses, task descriptions, and simulation.
+
+currently in development
